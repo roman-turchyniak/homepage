@@ -72,6 +72,10 @@ body {
     margin: 5% auto;
 }
 
+.skills ul{
+    list-style-image: none; 
+}
+
 .skill_bar {
     background: rgb(189, 171, 171);    
     display: block;
