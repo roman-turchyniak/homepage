@@ -66,6 +66,7 @@ body {
 }
 
 .skills {
+    list-style: none;
     width: 80%;
     list-style: none;
     margin: 5% auto;
